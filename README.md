@@ -3,7 +3,7 @@ The Weekly Saving Calculator is a handy WordPress plugin that helps users plan a
 
 ## Installation
 
-- Download the plugin from the GitHub repository.
+- Download the plugin from the [GitHub repository](https://github.com/lumumbapl/Weekly-Saving-Calculator).
 - Upload the extracted plugin folder to the wp-content/plugins/ directory of your WordPress installation.
 - Activate the plugin through the WordPress admin dashboard under "Plugins."
 
