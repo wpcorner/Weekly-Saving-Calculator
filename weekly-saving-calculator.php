@@ -12,18 +12,6 @@
  * Domain Path:       /languages
  */
 
-// Register the plugin menu page
-function weekly_saving_calculator_menu() {
-    add_menu_page(
-        'Weekly Saving Calculator',
-        'Weekly Calculator',
-        'manage_options',
-        'weekly_saving_calculator',
-        'weekly_saving_calculator_page'
-    );
-}
-
-add_action('admin_menu', 'weekly_saving_calculator_menu');
 
 // Define the shortcode for the calculator
 function weekly_saving_calculator_shortcode($atts) {
