@@ -61,7 +61,7 @@ function display_savings_table($start_date, $start_amount) {
         <thead>
             <tr>
                 <th>Date</th>
-                <th>Week Number</th>
+                <th>Week</th>
                 <th>Weekly Deposit Amount</th>
                 <th>Total Deposit</th>
             </tr>
