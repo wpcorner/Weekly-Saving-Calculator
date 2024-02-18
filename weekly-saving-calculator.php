@@ -56,6 +56,9 @@ function weekly_saving_calculator_page() {
 // Function to calculate and display savings table
 function display_savings_table($start_date, $start_amount) {
     ?>
+    <h3>Summary</h3>
+    <p>Incremental Amount: $<?php echo number_format($start_amount, 2); ?></p>
+    <p>Total Savings in 52 Weeks: $<?php echo number_format($total_deposit, 2); ?></p>
     <h2>Savings Table</h2>
     <table class="wp-list-table widefat fixed striped">
         <thead>
@@ -87,8 +90,5 @@ function display_savings_table($start_date, $start_amount) {
             ?>
         </tbody>
     </table>
-    <h3>Summary</h3>
-    <p>Incremental Amount: $<?php echo number_format($start_amount, 2); ?></p>
-    <p>Total Savings in 52 Weeks: $<?php echo number_format($total_deposit, 2); ?></p>
     <?php
 }
