@@ -4,10 +4,10 @@
  * Plugin URI:        https://github.com/lumumbapl/Weekly-Saving-Calculator
  * Description:       The Weekly Saving Calculator is a handy WordPress plugin that helps users plan and track their weekly savings over a 52-week period. 
  * Version:           1.0.0
- * Author:            Patrick Lumumba
+ * Author:            WP Corner
  * Author URI:        https://wpcorner.co
- * License:           GPL-3.0+
- * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
+ * License:           GPL-2.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       Weekly Saving Calculator
  * Domain Path:       /languages
  */
