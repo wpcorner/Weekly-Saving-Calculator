@@ -19,3 +19,13 @@ body .weekly-savings-table thead tr th {
     font-weight: bold;
     border-collapse: collapse;
 }
+form.savings-calculator input#start_amount, form.savings-calculator input#start_date{
+    margin: 8px 0;
+}
+form.savings-calculator input[type="submit"] {
+    background-color: #7E22CE;
+    color: fffff;
+    width: 100%;
+    border-radius: 20px;
+    margin: 8px 0;
+}

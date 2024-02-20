@@ -35,7 +35,7 @@ function weekly_saving_calculator_page()
         <h1>Weekly Saving Calculator</h1>
 
         <!-- Your HTML form for user input -->
-        <form method="post">
+        <form class="savings-calculator" method="post">
             <label for="start_date">Start Date:</label>
             <input type="date" id="start_date" name="start_date" required>
 
