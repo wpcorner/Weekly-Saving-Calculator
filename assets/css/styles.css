@@ -1,0 +1,21 @@
+body .weekly-savings-table table {
+    border-collapse: collapse !important;
+    width: 100%;
+}
+
+body .weekly-savings-table table th,
+body .weekly-savings-table table td {
+    text-align: left;
+    padding: 8px;
+    text-align: center !important;
+}
+
+body .weekly-savings-table table tr:nth-child(even) {
+    background-color: #f2f2f2;
+    border-collapse: collapse;
+}
+
+body .weekly-savings-table thead tr th {
+    font-weight: bold;
+    border-collapse: collapse;
+}
