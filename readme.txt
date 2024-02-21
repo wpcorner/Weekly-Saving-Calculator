@@ -1,8 +1,9 @@
 === Weekly Saving Calculator ===
 
 Contributors: lumiblog, 254volkan, wpcorner
-Donate link: https://wpcorner.co/donate
-Tags: calculator, weekly saving calculator, personal finance, saving challenge, 52 weeks money saving challenge, save money, saving money
+Donate link: https://wpcorner.co/donate/
+Tags: calculator, weekly saving calculator, personal finance, saving challenge, 52 weeks money saving challenge
+Requires PHP: 7.4
 Requires at least: 5.8
 Tested up to: 6.3.4
 Stable tag: 1.0.0
@@ -31,18 +32,13 @@ The Weekly Saving Calculator is a handy WordPress plugin that helps bloggers and
 
 **Customization:** Users can customize the start date and initial amount to suit their savings plan.
 
-Use the following shortcode to embed the savings calculator into your WordPress posts or pages:
-
-```plaintext
-[weekly_saving_calculator]
-
 == Installation ==
 
 1. Go to the WordPress admin dashboard
-3. Navigate to `Plugins` > `Add New`
-4. Search for 'Weekly Saving Calculator'
-5. Click `Install Now`
-6. Activate the plugin
+1. Navigate to `Plugins` > `Add New`
+1. Search for 'Weekly Saving Calculator'
+1. Click `Install Now`
+1. Activate the plugin
 
 == Usage ==
 
@@ -73,9 +69,14 @@ The plugin is designed to be compatible with the latest versions of WordPress. P
 == Screenshots ==
 
 1. Plugin in action - Weekly Saving Calculator form.
-2. Plugin output - Weekly savings table and summary.
+1. Plugin output - Weekly savings table and summary.
 
 == Changelog ==
 
 = v1.0.0 =
 * Initial release
+
+== Upgrade Notice ==
+
+= v1.1.0 =
+* A change since the previous version.
