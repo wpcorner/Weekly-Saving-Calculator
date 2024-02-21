@@ -8,7 +8,7 @@
  * Author URI:        https://wpcorner.co
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       Weekly Saving Calculator
+ * Text Domain:       Weekly-Saving-Calculator
  * Domain Path:       /languages
  */
 
