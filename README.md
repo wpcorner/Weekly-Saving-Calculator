@@ -9,9 +9,20 @@ The Weekly Saving Calculator is a handy WordPress plugin that helps users plan a
 
 ## Usage
 
-- After activation, use the shortcode [weekly_saving_calculator] to embed the savings calculator on any page or post.
-- Fill in the start date and start amount in the provided form.
-- Click the "Calculate" button to generate a comprehensive savings table and summary.
+Add the shortcode [weekly_saving_calculator] to the post or page where you want the calculator to appear. Users can input their start date and initial amount to calculate their weekly savings.
+
+## Installation
+
+1. Download the plugin as a .zip file
+2. Go to the WordPress admin dashboard
+3. Navigate to `Plugins` > `Add New`
+4. Search for 'Weekly Saving Calculator'
+5. Click `Install Now`
+6. Activate the plugin
+
+## License
+
+Weekly Saving Calculator is licensed under the GPL-2.0+ License. See the [LICENSE](http://www.gnu.org/licenses/gpl-2.0.txt) file for more information.
 
 ## FAQs
 
@@ -30,4 +41,4 @@ The plugin calculates savings over 52 weeks based on the provided start date and
 ### Is there support for multiple instances of the calculator on a single page?
 Yes, you can use the shortcode multiple times on a page to display multiple instances of the savings calculator.
 
-Feel free to reach out to the plugin author, Patrick Lumumba, at [info[at]divibanks.com](mailto:info@divibanks.com) for further assistance or inquiries.
+Feel free to open an issue in case of anything. 
